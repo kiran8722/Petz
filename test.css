@@ -488,7 +488,7 @@ button{
 }
 .img-height-width {
     height: 198px;
-    width: 13vw;
+    width: 100%;
     border-radius: 12px;
     border: 1px solid #e1dfdf;
 }
